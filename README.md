@@ -39,9 +39,6 @@ java -cp build\classes massmailer.MassMailer
 
 | MSSV | Họ và Tên | Công việc đã thực hiện |
 | :---: | :--- | :--- |
-| 2380600726 | Nguyễn Huy Hoàng | - Nghiên cứu giải pháp phù hợp
-- Áp dụng công nghệ cho 1 số chức năng |
-| 2380600201 | Nguyễn Huỳnh Bình | - Nhóm trưởng chịu trách nhiệm đề tài nhóm
-- Thực hiện lên ý tưởng, phân công,thực hiện 1 số thành phần module của sản phẩm |
-| 2380600658 | Nguyễn Huy Hoàng Hiếu | - Tiến hành thử nghiệm, nghiên cứu giải pháp khác có thể thay thế giải pháp nhóm đang dùng.
- - Đề xuất cải tiến và hoàn thiện dự án |
+| 2380600726 | Nguyễn Huy Hoàng | - Nghiên cứu giải pháp phù hợp<br>- Áp dụng công nghệ cho 1 số chức năng |
+| 2380600201 | Nguyễn Huỳnh Bình | - Nhóm trưởng chịu trách nhiệm đề tài nhóm<br>- Thực hiện lên ý tưởng, phân công,thực hiện 1 số thành phần module của sản phẩm |
+| 2380600658 | Nguyễn Huy Hoàng Hiếu | - Tiến hành thử nghiệm, nghiên cứu giải pháp khác có thể thay thế giải pháp nhóm đang dùng.<br>- Đề xuất cải tiến và hoàn thiện dự án |
